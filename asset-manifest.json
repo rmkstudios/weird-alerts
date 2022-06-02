@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weird-alerts/static/css/main.40fb4016.css",
+    "main.js": "/weird-alerts/static/js/main.1ffea5c9.js",
+    "static/media/logo.png": "/weird-alerts/static/media/logo.f5d17d1cd4a44f8d5a33.png",
+    "index.html": "/weird-alerts/index.html",
+    "main.40fb4016.css.map": "/weird-alerts/static/css/main.40fb4016.css.map",
+    "main.1ffea5c9.js.map": "/weird-alerts/static/js/main.1ffea5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40fb4016.css",
+    "static/js/main.1ffea5c9.js"
+  ]
+}
