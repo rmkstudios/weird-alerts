@@ -2,7 +2,7 @@
 
 View the live site here: [Weird Alerts](http://WeirdAlerts.com/)
 
-This project was coded from the ground up in React to pull and display live Crypto data using CoinGecko's API.
+This project was coded from the ground up in React to pull and display live crypto data using CoinGecko's API.
 
 While crypto data often seems complex, this project's primary focus was to instead display the data in a clean, approachable, and easy to use way.
 
