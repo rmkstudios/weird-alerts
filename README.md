@@ -15,6 +15,6 @@ Navigation is taken care of using React Router Dom.
 
 Everything is mobile-responsive and ready to roll on all devices.
 
-## Final Thoughts
+## View My Portfolio
 
 You can see more of my projects on my portfolio: [Backed By Ryan](http://backedbyryan.com)
